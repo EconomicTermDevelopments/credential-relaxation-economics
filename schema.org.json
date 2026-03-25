@@ -1,0 +1,12 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTerm",
+  "name": "credential relaxation",
+  "description": "Credential relaxation describes the process by which employers reduce or eliminate formal educational and certification requirements for job positions in response to labor shortages, shifting toward skills-based assessment. This phenomenon represents a reversal of credential inflation, where positions that previously required bachelor's degrees or specific certifications are opened to candidates demonstrating equivalent competencies through alternative pathways.",
+  "inDefinedTermSet": {
+    "@type": "DefinedTermSet",
+    "name": "Economic Terminology",
+    "datePublished": "2026-02-17"
+  },
+  "termCode": "I26"
+}

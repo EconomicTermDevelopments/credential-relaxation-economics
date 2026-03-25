@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://economictermdevelopments.github.io/credential-relaxation-economics/sitemap.xml
